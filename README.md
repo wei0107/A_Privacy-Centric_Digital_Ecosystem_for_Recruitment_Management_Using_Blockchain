@@ -26,7 +26,7 @@ The system consists of the following major components:
 ## Repository Structure
 
 ```text
-HR-blockchain-system/
+A_Privacy-Centric_Digital_Ecosystem_for_Recruitment_Management_Using_Blockchain/
 ├── app-chain/                  # Hyperledger Fabric / Fablo configuration and chaincodes
 │   ├── chaincodes/
 │   │   ├── enterprise_access_control/
@@ -132,7 +132,7 @@ truffle version
 
 ```bash
 git clone <repository-url>
-cd HR-blockchain-system
+cd A_Privacy-Centric_Digital_Ecosystem_for_Recruitment_Management_Using_Blockchain
 ```
 
 ### 2. Install backend dependencies
